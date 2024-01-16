@@ -1,6 +1,12 @@
 # 045047_PROJECT-2-Streamlit-Dashboard-Term-2
 Interactive Dashboard created using Streamlit for Term 2
 
+FILES UPLOADED:
+1. us-population-2010-2019 - Raw CSV file of dataset.
+2. us-population-2010-2019-states-code - State codes allotted to the states in the dataset.
+3. us-population-2010-2019-reshaped - States and population are segregated year-wise in the dataset.
+4. app.py - This .py file contains the configuration for the dashboard.
+5. 045047_Streamlit_Dashboard.ipynb or 045047_streamlit_dashboard.py - Python code for processing the dataset.
 
 STEPS TO RUN THE DASHBOARD:
 1. Kindly upload all 3 CSV files and the app.py file while running '045047_Streamlit_Dashboard.ipynb' or '045047_Streamlit_Dashboard.py' files.
